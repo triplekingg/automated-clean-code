@@ -1,7 +1,6 @@
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=MUIC-Modern-Software-Engineering_automated-clean-code&metric=coverage)](https://sonarcloud.io/summary/new_code?id=MUIC-Modern-Software-Engineering_automated-clean-code)
-
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MUIC-Modern-Software-Engineering_automated-clean-code&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MUIC-Modern-Software-Engineering_automated-clean-code)
-
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=triplekingg_automated-clean-code&metric=coverage)](https://sonarcloud.io/summary/new_code?id=triplekingg_automated-clean-code)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=triplekingg_automated-clean-code&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=triplekingg_automated-clean-code)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=triplekingg_automated-clean-code&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=triplekingg_automated-clean-code)
 ## Setup Instruction
 ```
 poetry install
